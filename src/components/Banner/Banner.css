@@ -1,0 +1,29 @@
+.whyTaxvit-container{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(184, 242, 223);
+    /* border: 1px solid black; */
+}
+.whyTaxvit-container li{
+    display: flex;
+    /* border: 1px solid red; */
+    align-items: center;
+}
+.whyTaxvit-container li img{
+    margin: 10px;
+}
+.whyTaxvit-container span{
+    font-size: 26px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    color: rgb(84, 84, 247);
+    text-align: center;
+
+
+}
+.whyTaxvit-container p{
+    font-size: 18px;
+    color: black;
+    text-align: justify;
+    padding: 10px;
+}
